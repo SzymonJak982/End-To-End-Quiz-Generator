@@ -95,7 +95,7 @@ Follow the steps outlined in the [Installation](#installation) section to set up
    ```shell
    stramlit run app.py
 
-- The script will be run the application.
+- The script will run the application.
 
 ## License
 - This script is open-source and available under the MIT License. You are free to use and modify it for your projects.
